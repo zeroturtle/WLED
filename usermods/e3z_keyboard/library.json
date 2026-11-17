@@ -1,0 +1,9 @@
+{
+  "name": "e3z_keyboard",
+  "version": "1.0.0",
+  "description": "Omron E3Z-R61 USB HID Keyboard trigger",
+  "license": "MIT",
+  "build": {
+    "libArchive": false
+  }
+}
